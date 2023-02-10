@@ -1,1 +1,1 @@
-shell develops
+shell basics
